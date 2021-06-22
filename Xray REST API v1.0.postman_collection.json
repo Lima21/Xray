@@ -5497,7 +5497,7 @@
 												{
 													"key": "file",
 													"type": "file",
-													"src": "/Users/lima/Downloads/junit_sample_test.xml"
+													"src": "./junit_sample_test.xml"
 												}
 											]
 										},
@@ -5573,7 +5573,7 @@
 												{
 													"key": "file",
 													"type": "file",
-													"src": "testng_sample.xml"
+													"src": "./testng_sample.xml"
 												}
 											]
 										},
@@ -5649,7 +5649,7 @@
 												{
 													"key": "file",
 													"type": "file",
-													"src": "nunit_sample.xml"
+													"src": "./nunit_sample.xml"
 												}
 											]
 										},
@@ -5725,7 +5725,7 @@
 												{
 													"key": "file",
 													"type": "file",
-													"src": "robot_sample.xml"
+													"src": "./robot_sample.xml"
 												}
 											]
 										},

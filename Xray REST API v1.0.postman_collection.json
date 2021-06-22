@@ -5497,7 +5497,7 @@
 												{
 													"key": "file",
 													"type": "file",
-													"src": "junit_sample_test.xml"
+													"src": "junit_sample.xml"
 												}
 											]
 										},
